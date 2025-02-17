@@ -1,8 +1,22 @@
-# 🏥 Medify - Modern Medical Records Management
+#  Medify - A Personal Medical Records Management App
 
-A modern, secure Flutter application for managing personal medical records with real-time synchronization powered by Supabase.
+A Flutter application for managing personal medical records with real-time synchronization.
 
 ## 🌟 Features
+
+### A Beautiful UI
+
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-17 at 15 11 35-4](https://github.com/user-attachments/assets/0aa9cd43-580a-4132-9c97-12317d641cbc)
+
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-17 at 15 11 54-3](https://github.com/user-attachments/assets/faf55782-7c4e-4ed7-aa05-14cec8b5ef9c)
+
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-17 at 15 12 07-2](https://github.com/user-attachments/assets/f778ecdf-945d-4db4-8214-6760c3eef03b)
+
+
+
 
 ### 📱 Core Functionality
 - **Secure Authentication**
@@ -143,16 +157,9 @@ flutter run
 - Protected API endpoints
 - Encrypted data transmission
 
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Authors
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-- Flutter Team
-- Supabase Team
-- All contributors and supporters
+## Submitted for
+EMIDS Hackathon 2022
